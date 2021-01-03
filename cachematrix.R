@@ -1,7 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
 ## There are two functions makeCacheMatrix, cacheSolve
 ## makeCacheMatrix is used to calculate inverse for non squared as well as square matrices
 
@@ -22,7 +18,6 @@ makeCacheMatrix <- function(x = matrix()){
 }
 
 
-## Write a short comment describing this function
 ## This is used to get the cache data
 
 cacheSolve <- function(x, ...){       ## get cache data
